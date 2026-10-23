@@ -11,5 +11,6 @@ with Statistical Models* (SOST30031). It will contain my R practicals,
 causal inference exercises, and reflections.
 
 ## Contents
-- `practical_script.R` — my R script from the session
+- `- `SOST20131_Week3_Practical_Dagitty.R` — DAG practical: confounding, mediation and colliders (Week 3)
+` — my R script from the session
 - `reflection_reproducibility.md` — reflection on reproducibility
